@@ -1,0 +1,64 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+section{
+    background-image: url(wizard.png);
+    display: flex;
+    margin-bottom: 150px;
+    background-repeat: no-repeat;
+    background-position: right;
+    background-position-x: 696px;
+    background-position-y: 10px;
+    background-size: 547px;
+    padding-left: 2%;
+}
+h1{
+    font-size: 45px;
+}
+h2{
+    padding-left: 10%;
+    color: rgb(119, 119, 119);
+    font-size: 32px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h3{
+    font-size: 20px;
+    color: rgb(39, 3, 3);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.first-part{
+    width: 50%;
+    padding-top: 10px;
+    padding-left: 5%;
+}
+.first-part img{
+    width: 66%;
+    padding-left: 0%;
+}
+.first-div-color{
+    font-size: 48px;
+    color: rgb(43, 17, 3);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.GHOSH{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(9, 3, 3);
+    padding-left: 5%;
+}
+#first{
+    padding-top: 15px;
+}
+p{
+    font-size: 25px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.a{
+    text-decoration: none;
+    background-image: linear-gradient( rgb(65, 1, 1), rgb(0, 0, 0));
+    padding: 15px 40px;
+    border-radius: 15px;
+    color: blanchedalmond;
+    font-weight: 700;
+}
