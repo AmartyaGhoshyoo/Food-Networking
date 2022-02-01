@@ -90,7 +90,7 @@ p{
     padding-top: 6%;
 }
 .ssdo img{
-    width: 125%;
+    width: 100%;
     padding-top: 20%;
 }
 .sa{
@@ -112,10 +112,12 @@ p{
 .tsdo img{
     width: 10%;
     padding-left: 50%;
-}
+}   
 .tsh2{
+    color: rgb(39, 3, 3);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
     font-size: 35px;
-    padding-left: 44.5%;
+    padding-left: 47%;
 }
 .tsdt{
     width: 60%;
@@ -132,6 +134,7 @@ p{
 }
 .fsda img{
     width: 115%;
+    box-shadow: 15px 10px 10px rgb(39, 3, 3);
 }
 .fsh7{
     text-decoration: none;
@@ -146,23 +149,30 @@ p{
     margin-top: 16.5%;
 }
 .fifth-section{
+    background-image: url(burger.jpg);
     display: flex;
-    margin-bottom: 150px;
+    margin-bottom: 40px;
 }
-.fisda{
+.fisdo{
     width: 50%;
     padding-left: 2%;
 }
-.fisda img{
+.fisdo img{
+    width: 15%;
+    padding-left: 36%;
+    padding-top: 6%;
+}
+.fisdt img{
     width: 100%;
-    padding-top: 10%;
+    padding-top: 30%;
 }
 .fish1{
+    padding-left: 9.5%;
     color: rgb(39, 3, 3);
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 .fish2{
-    padding-left: 33%;
+    padding-left: 31.5%;
     color: rgb(39, 3, 3);
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
@@ -178,5 +188,6 @@ p{
 }
 .fisdos{
     border: solid;
-    padding: 2px 6px;
+    padding: 5px 12.5px;
+    border-radius: 10px;
 }
