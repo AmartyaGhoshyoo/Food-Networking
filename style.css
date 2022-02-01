@@ -172,22 +172,80 @@ p{
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 .fish2{
-    padding-left: 31.5%;
+    padding-left: 14.5%;
     color: rgb(39, 3, 3);
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 .fa{
     text-decoration: none;
     background-image: linear-gradient( rgb(65, 1, 1), rgb(0, 0, 0));
-    padding: 9px 25px;
+    padding: 10px 40px;
     border-radius: 15px;
     color: blanchedalmond;
-    font-weight: 700;
-    margin-left: 32%;
-
+    font-weight: 400;
 }
 .fisdos{
     border: solid;
-    padding: 5px 12.5px;
+    padding: 5px 14px;
     border-radius: 10px;
+}
+.sixth-section{
+    margin-bottom: 40px;
+}
+
+.ssda{
+    width: 21.5%;
+    border-radius: 40px;
+    box-shadow: 15px 10px 25px rgb(39, 3, 3);
+    margin-left: 8.25%;
+    padding: 1.5%;
+    
+}
+.ssda img{
+    width: 100%;
+}
+.seventh-section{
+    display: flex;
+    margin-bottom: 150px;
+}
+.eight-section{
+    display: flex;
+    margin-bottom: 150px;
+}
+.esda{
+    width: 50%;
+    
+}
+.esda img{
+    width: 72.5%;
+    padding-left: 8%;
+}
+#esdti img{
+    width: 15%;
+    padding-left: 36%;
+    padding-top: 7%;
+}
+.esh1{
+    color: rgb(39, 3, 3);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding-left: 10%;
+}
+.ea{
+    text-decoration: none;
+    background-image: linear-gradient( rgb(65, 1, 1), rgb(0, 0, 0));
+    padding: 10px 40px;
+    border-radius: 15px;
+    color: blanchedalmond;
+    font-weight: 700;
+    margin-left: 32.25%;
+}
+.ninth-section img{
+    width: 39.5%;
+   margin-left: 30.5%;
+   box-shadow: 15px 20px 40px rgb(39, 3, 3);
+   border-radius: 15px;
+   padding: 2%;
+   background-image: url(hand.jpg);
+   margin-bottom: 150px;
+}
 }
