@@ -23,9 +23,10 @@ h1{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 .fsh3{
-    font-size: 20px;
+    font-size: 19.5px;
     color: rgb(39, 3, 3);
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    padding-left: 15px;
 }
 
 .fsdo{
@@ -53,20 +54,22 @@ h1{
 p{
     font-size: 25px;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    padding-left: 35%;
 }
 .a{
     text-decoration: none;
     background-image: linear-gradient( rgb(65, 1, 1), rgb(0, 0, 0));
-    padding: 15px 40px;
+    padding: 10px 30px;
     border-radius: 15px;
     color: blanchedalmond;
     font-weight: 700;
+    margin-left: 55%;
 }
 .second-section{
     display: flex;
     background-image: url(bg.jpg);
     background-position: 100% 100%;
-    margin-bottom: 150px;
+    margin-bottom: 40px;
 }
 .ssdt{
     width: 60%;
@@ -97,5 +100,83 @@ p{
     border-radius: 15px;
     color: blanchedalmond;
     font-weight: 700;
-    margin-left: 36%;
+    margin-left: 34.9%;
+}
+.third-section{
+    margin-bottom: 15px;
+}
+.tsdo{
+    width: 60%;
+    padding-left: 20%;
+}
+.tsdo img{
+    width: 10%;
+    padding-left: 50%;
+}
+.tsh2{
+    font-size: 35px;
+    padding-left: 44.5%;
+}
+.tsdt{
+    width: 60%;
+    padding-left: 31%;
+}
+.fourth-section{
+    display: flex;
+    margin-bottom: 150px;
+}
+.fsda{
+    width: 50%;
+    margin:5% 5%;
+    padding-left: 5%;
+}
+.fsda img{
+    width: 115%;
+}
+.fsh7{
+    text-decoration: none;
+    background-image: linear-gradient( rgb(65, 1, 1), rgb(0, 0, 0));
+    padding: 6.5px 22.5px;
+    border-radius: 15px;
+    color: blanchedalmond;
+    margin-left: 27.9%;
+    
+}
+#fsdthi img{
+    margin-top: 16.5%;
+}
+.fifth-section{
+    display: flex;
+    margin-bottom: 150px;
+}
+.fisda{
+    width: 50%;
+    padding-left: 2%;
+}
+.fisda img{
+    width: 100%;
+    padding-top: 10%;
+}
+.fish1{
+    color: rgb(39, 3, 3);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.fish2{
+    padding-left: 33%;
+    color: rgb(39, 3, 3);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.fa{
+    text-decoration: none;
+    background-image: linear-gradient( rgb(65, 1, 1), rgb(0, 0, 0));
+    padding: 9px 25px;
+    border-radius: 15px;
+    color: blanchedalmond;
+    font-weight: 700;
+    margin-left: 32%;
+
+}
+.fisdos{
+    border: solid;
+    padding: 2px 6px;
 }
