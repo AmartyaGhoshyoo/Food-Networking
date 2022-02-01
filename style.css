@@ -192,7 +192,11 @@ p{
 .sixth-section{
     margin-bottom: 40px;
 }
-
+.sish2{
+    padding-left: 28.5%;
+    color: rgb(39, 3, 3);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}   
 .ssda{
     width: 21.5%;
     border-radius: 40px;
@@ -247,5 +251,4 @@ p{
    padding: 2%;
    background-image: url(hand.jpg);
    margin-bottom: 150px;
-}
 }
